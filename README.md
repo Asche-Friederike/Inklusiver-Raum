@@ -1,2 +1,2 @@
 # Inklusiver-Raum
-Das Projekt DEIN*ORT forscht zu inklusiven Stadträumen
+The project at Dortmund University of Applied Sciences and Arts is researching the design of inclusive public spaces.
